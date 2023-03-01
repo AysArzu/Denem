@@ -6,8 +6,8 @@ public class GithubGrup {
         System.out.println("gunaydin");
         System.out.println("gunaydin");
         System.out.println("gunaydin");
-
-
+        System.out.println("slm");
+        System.out.println();
         throw new ArithmeticException();
 
     }
